@@ -7,7 +7,7 @@ The project focuses on React concepts including Effects, Data Fetching, Routing,
 ---
 
 ## 👩‍💻 Author
-- Name: irene njoki
+- Name: Your Full Name
 - GitHub Username: blis608
 
 ---
@@ -114,4 +114,4 @@ Through this project, I learned how to:
 ---
 
 ## 🌐 Live Demo
-[Click Here to View Live Demo](https://blis608.github.io/iyf_s10_week_09_blis608/)
+[Click Here to View Live Demo](https://blis608.github.io/iyf_s10_week_09_blis608)
