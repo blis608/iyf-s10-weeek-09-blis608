@@ -28,3 +28,15 @@ A React app built to complete the Week 9 SocialLink assignment from `task.md`.
 - `src/hooks/` — custom hooks
 - `src/pages/` — page routes
 - `daily-challenges/` — daily challenge notes and completed task summary
+
+## GitHub Pages deployment
+
+This project is configured to build into the `docs/` folder so GitHub Pages can serve the site from the repository.
+
+The app is hosted at:
+
+`https://blis608.github.io/iyf-s10-weeek-09-blis608/`
+
+## Daily challenge integration
+
+The app includes a `Challenges` page at `/challenges` that links the daily challenge work into SocialLink and summarizes the task progress.

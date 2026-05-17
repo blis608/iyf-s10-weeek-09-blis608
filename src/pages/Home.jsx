@@ -27,6 +27,7 @@ function Home() {
           <div className="button-group">
             <Link to="/posts">Browse Posts</Link>
             <Link to="/create">Create Post</Link>
+            <Link to="/challenges">View Challenges</Link>
           </div>
         </Card>
 
