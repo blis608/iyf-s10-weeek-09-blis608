@@ -66,10 +66,5 @@ SocialLink is a React-based web application built as part of the IYF Season 10 W
 
 ---
 
-## 📸 Screenshots
-![SocialLink App Screenshot](path/to/screenshot.png)
-
----
-
 ## 🌐 Live Demo
 [View Live Demo](https://blis608.github.io/iyf-s10-weeek-09-blis608/)
